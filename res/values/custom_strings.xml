@@ -29,4 +29,7 @@
     <string name="show_emoticons_pref_title">Emoticons access</string>
     <string name="show_emoticons_pref_summary">Show the emoticons key on the keyboard</string>
 
+    <!-- Lookup -->
+    <string name="report_as_spam_to">Report as spam to %s</string>
+
 </resources>
