@@ -59,6 +59,7 @@ LOCAL_AAPT_FLAGS += --extra-packages com.android.ex.chips
 LOCAL_AAPT_FLAGS += --extra-packages com.android.vcard
 LOCAL_AAPT_FLAGS += --extra-packages com.android.ex.photo
 LOCAL_AAPT_FLAGS += --extra-packages com.android.colorpicker
+LOCAL_AAPT_FLAGS += --extra-packages com.android.internal.telephony
 
 ifdef TARGET_BUILD_APPS
     LOCAL_JNI_SHARED_LIBRARIES := libframesequence libgiftranscode
@@ -83,7 +84,7 @@ LOCAL_PACKAGE_NAME := messaging
 
 LOCAL_CERTIFICATE := platform
 
-LOCAL_SDK_VERSION := current
+#LOCAL_SDK_VERSION := current
 
 include $(BUILD_PACKAGE)
 
