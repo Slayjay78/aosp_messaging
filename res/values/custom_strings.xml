@@ -25,4 +25,8 @@
     <string name="pref_unicode_stripping_non_encodable">Strip non-encodable characters</string>
     <string name="pref_unicode_stripping_all">Strip all unicode characters</string>
 
+    <!-- Show emoticons -->
+    <string name="show_emoticons_pref_title">Emoticons access</string>
+    <string name="show_emoticons_pref_summary">Show the emoticons key on the keyboard</string>
+
 </resources>
