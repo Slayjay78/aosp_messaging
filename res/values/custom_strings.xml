@@ -17,7 +17,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Swipe to delete -->
-    <string name="swipe_deletes_conversation_text">Swipe deletes conversation</string>
+    <string name="swipe_to_delete_conversation_pref_title">Swipe to delete</string>
+    <string name="swipe_to_delete_conversation_pref_summary">Swipe to the right to delete a conversation</string>
 
     <!-- Strip unicode -->
     <string name="unicode_stripping_pref_title">Strip unicode</string>
